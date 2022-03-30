@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About
+
+<p>API creada con Laravel Passport, cuenta principalmente con autenticación para Login de usuarios.</p>
+
+
 ## Versions
 
 <ul>
