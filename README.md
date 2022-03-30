@@ -7,10 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Versiones
+## Versions
 
-<p>PHP 8.0.2</p>
-<p>Laravel Framework 8.83.6</p>
+<ul>
+  <li>PHP 8.0.2</li>
+  <li>Laravel Framework 8.83.6</li>
+</ul>
+
 
 
 
